@@ -2,7 +2,8 @@
 
 ## Admin
 
-Workshop communication: [Collabedit](http://collabedit.com/ewerf)
+- Workshop communication: [Collabedit](http://collabedit.com/ewerf)
+- Advanced workshop starter files: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop.zip)
 
 ## Description
 
