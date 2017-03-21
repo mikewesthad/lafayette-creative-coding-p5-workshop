@@ -1,0 +1,10 @@
+/* Remove margin and padding from elements, so that we don't end up with
+   unnecessary whitespace around elements */
+html, body, canvas {
+	padding: 0;
+	margin: 0;
+}
+/* Whitespace fix so that a fullscreen canvas doesn't trigger scrollbars */
+canvas {
+	vertical-align: top;
+}
