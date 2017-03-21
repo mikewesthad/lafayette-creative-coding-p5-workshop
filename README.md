@@ -1,5 +1,9 @@
 # Creative Coding for the Web with p5.js
 
+## Admin
+
+Workshop communication: [Collabedit](http://collabedit.com/ewerf)
+
 ## Description
 
 This pair of hands-on workshops will introduce you to the world of creative coding for the web with JavaScript & p5.js. p5.js is a JavaScript library with the goal of making coding accessible for artists, designers, educators and beginners. In the workshop, we will learn about how the web works and what artists have been doing with the web. Then we will jump into using p5.js to create interactive & dynamic art through code. By the end of the workshop, everyone will have their own p5.js sketch hosted online.
