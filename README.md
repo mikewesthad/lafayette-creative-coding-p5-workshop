@@ -2,6 +2,7 @@
 
 ## Links
 
+- GitHub page shortlink (for getting everyone here): http://tiny.cc/laf-cc
 - Workshop communication: [Collabedit](http://collabedit.com/ewerf)
 
 ### Beginner Workshop
