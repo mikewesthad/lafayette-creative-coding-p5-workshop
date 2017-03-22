@@ -1,8 +1,16 @@
 # Creative Coding for the Web with p5.js
 
-## Admin
+## Links
 
 - Workshop communication: [Collabedit](http://collabedit.com/ewerf)
+
+### Beginner Workshop
+
+- Beginner workshop starter files: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/beginner-workshop.zip)
+- Beginner workshop slides: [pdf](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/beginner-workshop.pdf)
+
+### Advanced Workshop
+
 - Advanced workshop starter files: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop.zip)
 - Advanced workshop slides: [pdf](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop.pdf)
 
