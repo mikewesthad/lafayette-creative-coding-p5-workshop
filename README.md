@@ -2,18 +2,19 @@
 
 ## Links
 
-- GitHub page shortlink (for getting everyone here): http://tiny.cc/laf-coding
-- Workshop communication: [Collabedit](http://collabedit.com/ewerf)
+-   GitHub page shortlink (for getting everyone here): <http://tiny.cc/laf-coding>
+-   Workshop communication: [Collabedit](http://collabedit.com/ewerf)
 
 ### Beginner Workshop
 
-- Beginner workshop starter files: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/beginner-workshop.zip)
-- Beginner workshop slides: [pdf](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/beginner-workshop.pdf)
+-   Beginner workshop code starter files: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/beginner-workshop.zip)
+-   Beginner workshop completed code: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/beginner-workshop-solutions.zip)
+-   Beginner workshop slides: [pdf](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/beginner-workshop.pdf)
 
 ### Advanced Workshop
 
-- Advanced workshop starter files: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop.zip)
-- Advanced workshop slides: [pdf](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop.pdf)
+-   Advanced workshop code starter files: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop.zip)- Advanced workshop completed code: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop-solutions.zip)
+-   Advanced workshop slides: [pdf](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop.pdf)
 
 ## Description
 
