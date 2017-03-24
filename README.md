@@ -24,7 +24,8 @@ Computers will be available, but if you have your own laptop, bring it!
 
 ### Advanced Workshop
 
--   Advanced workshop code starter files: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop.zip)- Advanced workshop completed code: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop-solutions.zip)
+-   Advanced workshop code starter files: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop.zip)
+-   Advanced workshop completed code: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop-solutions.zip)
 -   Advanced workshop slides: [pdf](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop.pdf)
 
 ## Resources
