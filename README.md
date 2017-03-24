@@ -28,6 +28,15 @@ Computers will be available, but if you have your own laptop, bring it!
 -   Advanced workshop completed code: [zip](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop-solutions.zip)
 -   Advanced workshop slides: [pdf](https://www.mikewesthad.com/lafayette-creative-coding-p5-workshop/advanced-workshop.pdf)
 
+### GIFs
+
+<img src="gifs/02-conditionals.gif" width="350">
+<img src="gifs/02-conditionals-2.gif" width="350">
+<img src="gifs/03-transforms.gif" width="350">
+<img src="gifs/04-image.gif" width="350">
+<img src="gifs/05-video.gif" width="350">
+<img src="gifs/05-video-bonus.gif" width="350">
+
 ## Resources
 
 ### Learning More
