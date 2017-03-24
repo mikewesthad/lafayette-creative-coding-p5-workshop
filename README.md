@@ -30,12 +30,9 @@ Computers will be available, but if you have your own laptop, bring it!
 
 ### GIFs
 
-<img src="gifs/02-conditionals.gif" width="350">
-<img src="gifs/02-conditionals-2.gif" width="350">
-<img src="gifs/03-transforms.gif" width="350">
-<img src="gifs/04-image.gif" width="350">
-<img src="gifs/05-video.gif" width="350">
-<img src="gifs/05-video-bonus.gif" width="350">
+<img src="gifs/02-conditionals.gif" height="200"><img src="gifs/02-conditionals-2.gif" height="200"><br>
+<img src="gifs/03-transforms.gif" height="200"><img src="gifs/04-image.gif" height="200"><br>
+<img src="gifs/05-video.gif" height="200"><img src="gifs/05-video-bonus.gif" height="200">
 
 ## Resources
 
